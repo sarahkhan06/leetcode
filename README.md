@@ -1,15 +1,15 @@
 # 🧠 LeetCode Grind — Sarah Khan
 
-> **Goal:** 200 problems by end of summer. Daily commits. No excuses.
+> **Goal:** 200 problems by end of summer.
 
-![Progress](https://img.shields.io/badge/Solved-0%2F200-red?style=flat-square)
-![Streak](https://img.shields.io/badge/Streak-Day%200-orange?style=flat-square)
+![Progress](https://img.shields.io/badge/Solved-1%2F200-red?style=flat-square)
+![Streak](https://img.shields.io/badge/Streak-Day%201-orange?style=flat-square)
 
 ## 📊 Progress Tracker
 
 | Difficulty | Solved | Target |
 |------------|--------|--------|
-| 🟢 Easy    | 0      | 60     |
+| 🟢 Easy    | 1      | 60     |
 | 🟡 Medium  | 0      | 120    |
 | 🔴 Hard    | 0      | 20     |
 | **Total**  | **0**  | **200**|
