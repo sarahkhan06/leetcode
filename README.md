@@ -2,7 +2,7 @@
 
 > **Goal:** 200 problems by end of summer.
 
-![Progress](https://img.shields.io/badge/Solved-2%3F200-red?style=flat-square)
+![Progress](https://img.shields.io/badge/Solved-3%2F200-red?style=flat-square)
 ![Streak](https://img.shields.io/badge/Streak-Day%203-orange?style=flat-square)
 
 ## 📊 Progress Tracker
