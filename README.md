@@ -2,8 +2,8 @@
 
 > **Goal:** 200 problems by end of summer.
 
-![Progress](https://img.shields.io/badge/Solved-3%2F200-red?style=flat-square)
-![Streak](https://img.shields.io/badge/Streak-Day%203-orange?style=flat-square)
+![Progress](https://img.shields.io/badge/Solved-4%2F200-red?style=flat-square)
+![Streak](https://img.shields.io/badge/Streak-Day%204-orange?style=flat-square)
 
 ## 📊 Progress Tracker
 
@@ -11,8 +11,8 @@
 |------------|--------|--------|
 | 🟢 Easy    | 1      | 60     |
 | 🟡 Medium  | 2      | 120    |
-| 🔴 Hard    | 0      | 20     |
-| **Total**  | **0**  | **200**|
+| 🔴 Hard    | 1      | 20     |
+| **Total**  | **4**  | **200**|
 
 ## 🗂️ Structure
 
